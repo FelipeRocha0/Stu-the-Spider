@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: e1136f4368646684e989739862eafd5c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheetStu_0
+    21300002: spritesheetStu_1
+    21300004: spritesheetStu_2
+    21300006: spritesheetStu_3
+    21300008: spritesheetStu_4
+    21300010: spritesheetStu_5
+    21300012: spritesheetStu_6
+    21300014: spritesheetStu_7
+    21300016: spritesheetStu_8
+    21300018: spritesheetStu_9
+    21300020: spritesheetStu_10
+    21300022: spritesheetStu_11
+    21300024: spritesheetStu_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: spritesheetStu_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1206
+        width: 258
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetStu_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1212
+        width: 252
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetStu_2
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1220
+        width: 253
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetStu_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 928
+        width: 253
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetStu_4
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 903
+        width: 260
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetStu_5
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 909
+        width: 249
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetStu_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 631
+        width: 253
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetStu_7
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 626
+        width: 254
+        height: 224
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetStu_8
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 617
+        width: 365
+        height: 203
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetStu_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 301
+        width: 171
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetStu_10
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 238
+        width: 171
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetStu_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 180
+        width: 171
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetStu_12
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 100
+        width: 172
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
